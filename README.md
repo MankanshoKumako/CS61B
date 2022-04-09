@@ -1,2 +1,3 @@
 # CS61B
-A computer science course in second semester in UCB
+cs61b 18sp
+https://sp18.datastructur.es/
